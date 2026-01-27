@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kartik00052)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiksharma18852@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kartik00052&color=blueviolet&style=flat-square)
+
 
 
 ---
