@@ -10,33 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kartik00052&color=blueviolet&style=flat-square)
 
-</div>
-
----
-
-## 🎯 About Me
-
-```python
-class KartikSharma:
-    def __init__(self):
-        self.name = "Kartik Sharma"
-        self.role = "AI/ML Engineer"
-        self.location = "India"
-        self.current_focus = [
-            "Machine Learning",
-            "Deep Learning", 
-            "Generative AI",
-            "AI Agents & Agentic AI"
-        ]
-        self.learning = ["CrewAI", "LangGraph", "Advanced Agent Systems"]
-        self.daily_practice = True
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
-
-me = KartikSharma()
-me.say_hi()
-```
 
 ---
 
@@ -77,20 +50,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik00052&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik00052&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik00052&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
