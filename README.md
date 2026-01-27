@@ -98,27 +98,7 @@ Currently building exciting AI/ML projects with:
 
 ---
 
-## 💡 Fun Fact
-
-```python
-def my_life():
-    coffee = float('inf')
-    problems_solved = 0
-    
-    while True:
-        learn_something_new()
-        solve_problems()
-        build_cool_projects()
-        problems_solved += 1
-        
-        if problems_solved >= dream_job:
-            print("Mission Accomplished! 🎉")
-            continue  # Never stop learning!
-```
-
----
-
-<div align="center">
+>
 
 ### 💭 *"Building the future, one algorithm at a time"*
 
