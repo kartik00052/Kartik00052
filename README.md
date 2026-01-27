@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kartik Sharma
 
-### 🤖 AI/ML Engineer | 🧠 Deep Learning Enthusiast | 🚀 Building Intelligent Systems
+### 🤖 AI/ML Enthusiast | 🧠 Deep Learning Enthusiast | 🚀 Building Intelligent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartik005204b283299)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kartik00052)
