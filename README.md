@@ -53,25 +53,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Kartik00052&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartik00052&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 💼 Featured Projects
 
