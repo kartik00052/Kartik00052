@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#3b82f6;#8b5cf6;#58a6ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#58a6ff;#3b82f6;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3b82f6">
+        <animate attributeName="stop-color" values="#3b82f6;#8b5cf6;#58a6ff;#3b82f6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="subtleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.03">
+        <animate attributeName="stop-opacity" values="0.03;0.08;0.03" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.01">
+        <animate attributeName="stop-opacity" values="0.01;0.05;0.01" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="2;5;2" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#bgGrad)"/>
+  <rect width="900" height="280" fill="url(#subtleGrad)"/>
+
+  <g transform="translate(450, 100)">
+    <text font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700"
+          fill="url(#textGrad)" text-anchor="middle" dominant-baseline="central"
+          filter="url(#glow)" letter-spacing="2">
+      Devansh Malik
+    </text>
+  </g>
+
+  <g transform="translate(450, 148)">
+    <text font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400"
+          fill="#8b949e" text-anchor="middle" dominant-baseline="central" letter-spacing="6">
+      AI ENGINEER
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <g transform="translate(450, 172)">
+    <text font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="300"
+          fill="#484f58" text-anchor="middle" dominant-baseline="central" letter-spacing="4">
+      ML / DL / AGENTIC AI / RESEARCH
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <line x1="200" y1="200" x2="700" y2="200" stroke="#30363d" stroke-width="0.5"/>
+  <line x1="200" y1="200" x2="700" y2="200" stroke="url(#lineGlow)" stroke-width="1.5">
+    <animate attributeName="x1" values="200;700;200" dur="4s" repeatCount="indefinite"/>
+  </line>
+
+  <circle cx="200" cy="200" r="2" fill="#58a6ff">
+    <animate attributeName="cx" values="200;700;200" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="450" cy="48" r="1.5" fill="#8b5cf6">
+    <animate attributeName="r" values="1;3;1" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="60" r="1" fill="#58a6ff">
+    <animate attributeName="r" values="1;2.5;1" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="60" r="1" fill="#3b82f6">
+    <animate attributeName="r" values="1;2;1" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
