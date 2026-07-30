@@ -93,24 +93,24 @@
   <table border="0" cellspacing="8" cellpadding="0" style="max-width: 720px; width: 100%;">
     <tr>
       <td style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117; width: 50%; vertical-align: top;">
-        <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58a6ff; margin: 0 0 6px 0;">AetherML</p>
+        <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #58a6ff; margin: 0 0 6px 0;">KrineinAI</p>
         <p style="font-family: 'Segoe UI', sans-serif; font-size: 13px; color: #8b949e; margin: 0 0 10px 0; line-height: 1.5;">
-          Enterprise Agentic Machine Learning Platform with automated pipelines, experiment tracking, and multi-agent orchestration.
+          Enterprise multi-agent hallucination verification platform with Clean Architecture, 10-agent pipeline, and explainable AI outputs.
         </p>
         <p style="font-family: 'Courier New', monospace; font-size: 11px; color: #484f58; margin: 0 0 10px 0;">
-          FastAPI · LangGraph · Qdrant · PostgreSQL · Docker · MLflow
+          FastAPI · LangGraph · React · PostgreSQL · Qdrant · Docker
         </p>
-        <a href="https://github.com/kartik00052/AetherML"><img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&border=1px&borderColor=30363d" alt="Repo"/></a>
+        <a href="https://github.com/kartik00052/KrineinAI"><img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&border=1px&borderColor=30363d" alt="Repo"/></a>
       </td>
       <td style="border: 1px solid #30363d; border-radius: 8px; padding: 20px; background: #0d1117; width: 50%; vertical-align: top;">
-        <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #8b5cf6; margin: 0 0 6px 0;">Cipher AI</p>
+        <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; font-weight: 600; color: #8b5cf6; margin: 0 0 6px 0;">PhronesisML</p>
         <p style="font-family: 'Segoe UI', sans-serif; font-size: 13px; color: #8b949e; margin: 0 0 10px 0; line-height: 1.5;">
-          Enterprise AI coding assistant leveraging LLMs, RAG, and multi-agent workflows for intelligent code analysis and generation.
+          Open-source Python SDK for automated ML workflows — ETL, validation, EDA, feature engineering, model training, and explainability.
         </p>
         <p style="font-family: 'Courier New', monospace; font-size: 11px; color: #484f58; margin: 0 0 10px 0;">
-          LangGraph · RAG · FastAPI · OpenAI · AI Agents
+          LangGraph · Pandas/Polars/PySpark · scikit-learn · FastAPI · Pydantic
         </p>
-        <a href="https://github.com/kartik00052/CipherAI"><img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=8b5cf6&labelColor=0d1117&border=1px&borderColor=30363d" alt="Repo"/></a>
+        <a href="https://github.com/kartik00052/Phronesisml"><img src="https://img.shields.io/badge/View_Repo-0d1117?style=flat-square&logo=github&logoColor=8b5cf6&labelColor=0d1117&border=1px&borderColor=30363d" alt="Repo"/></a>
       </td>
     </tr>
   </table>
