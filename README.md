@@ -5,97 +5,122 @@
   <img src="https://raw.githubusercontent.com/kartik00052/Kartik00052/main/assets/header.svg" width="100%" alt="Kartik Sharma">
 </picture>
 
-<br/>
+### Kartik Sharma
+**AI/ML Engineer · Backend Developer**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Backend+Developer;Building+Agentic+AI+Systems" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/kartik00052?label=followers&logo=github&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/kartik00052?label=stars&logo=github&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Stars"/>
-<img src="https://api.visitorbadge.io/api/visitors?path=kartik00052&label=visitors&style=flat-square&color=58a6ff&labelColor=0d1117" alt="Visitors"/>
+LLM & RAG systems · Agentic AI pipelines · Production backend engineering
 
 </div>
 
 <br/>
 
-> B.Tech AI & ML student building production-grade agentic systems, LLM pipelines, and backend infrastructure — open source contributor.
+## About
+
+AI/ML Computer Science undergraduate with hands-on experience building LLM and Retrieval-Augmented Generation (RAG) systems using LangChain, LangGraph, and vector databases. Focused on production-grade backend engineering with FastAPI, Docker, and CI/CD.
 
 <br/>
 
-### Stack
+## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,pytorch,tensorflow,react,postgres,redis,docker,aws,git,linux&theme=dark&perline=12" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-### Currently
-
-| Building | Learning | Exploring |
-|:---:|:---:|:---:|
-| Enterprise Agentic AI Systems | Deep Learning · LLMs · Agentic AI | MCP Servers · Inference Optimization |
+| Category | Technologies |
+|---|---|
+| **AI/ML & GenAI** | PyTorch, TensorFlow, Scikit-learn, Transformers, Hugging Face, LangChain, LangGraph, LlamaIndex, RAG, Embeddings, Prompt Engineering, Semantic Search |
+| **Backend** | Python, Java, SQL, FastAPI, REST APIs, Pydantic, SQLAlchemy, Authentication |
+| **Databases & Search** | PostgreSQL, MySQL, FAISS, Vector Search, Hybrid Search, BM25, Reranking |
+| **MLOps / DevOps** | Docker, Docker Compose, CI/CD, Git, GitHub, Automated Testing, ML Pipelines, Reproducibility |
+| **Cloud & Tools** | AWS, Azure, Oracle Cloud, Render, Postman, Linux, VS Code, ruff, mypy, pytest |
 
 <br/>
 
-### Projects
+## Experience
+
+**AI/ML Intern — Qurovo HealthCare**
+*Privacy-Aware Message Intelligence Pipeline · Jul – Aug 2026*
+
+- Built an end-to-end NLP pipeline over a 900-message healthcare dataset for message classification, task/event extraction, and sensitive-data protection, served via a FastAPI API/dashboard.
+- Designed a hybrid AI architecture — deterministic rules first, LLM fallback only below a 0.75 confidence threshold — with sensitive-data masking (OTPs, credentials, health data) applied before any classification, extraction, or LLM call.
+
+<br/>
+
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**[KrineinAI](https://github.com/kartik00052/KrineinAI)**
+**ProbeIQ**
 <br/>
-Multi-agent hallucination verification platform — 10-agent pipeline, Clean Architecture, explainable AI outputs.
-<br/><br/>
-`FastAPI` `LangGraph` `React` `PostgreSQL` `Qdrant` `Docker`
+*Aug 2026*
+
+Adaptive AI interview platform with a production FastAPI backend — 180 backend tests, 51 E2E tests, 89 source files, zero lint/type errors. 6 typed LangGraph nodes form a deterministic interview state machine. Argon2id auth, HTTP-only session cookies, retry-safe session architecture. Containerized and deployed via Docker Compose (Render + Vercel).
+
+`Python` `FastAPI` `LangGraph` `Pydantic` `Docker`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**[PhronesisML](https://github.com/kartik00052/Phronesisml)**
+**PhronesisML**
 <br/>
-Open-source SDK for automated ML workflows — ETL, validation, EDA, feature engineering, explainability.
-<br/><br/>
-`LangGraph` `Pandas/Polars` `scikit-learn` `FastAPI` `Pydantic`
+*Jun 2026*
+
+Open-source Python ML SDK published to PyPI — 11 pipeline agents orchestrated via LangGraph. Multi-engine data processing across Pandas, Polars, and PySpark for ETL, validation, EDA, and feature engineering. Includes clustering, anomaly detection, model recommendation, and explainability modules.
+
+`Python` `LangGraph` `Scikit-learn` `Polars` `PySpark`
+
+</td>
+<td width="33%" valign="top">
+
+**RAG Techniques Implementation Hub**
+<br/>
+*May 2026*
+
+19 RAG pipeline implementations spanning retrieval, chunking, query enhancement, and advanced architectures (Self-RAG, CRAG, RAPTOR, Graph RAG). Hybrid retrieval combining BM25 and FAISS with cross-encoder reranking and contextual compression.
+
+`Python` `LangChain` `LlamaIndex` `FAISS`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="right">
 
-### GitHub Analytics
+[View all repositories →](https://github.com/kartik00052)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik00052&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik00052&theme=github_dark" width="100%" alt="Profile Summary"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik00052&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kartik00052&theme=github_dark" width="49%" alt="Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik00052&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kartik00052&theme=github_dark" width="49%" alt="Languages"/>
-  </picture>
 </div>
 
 <br/>
 
-<div align="center">
+## Open Source
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik005204b283299)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kartik00052)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartiksharma18852@gmail.com)
+- **PhronesisML** — Python ML SDK published on PyPI, built with a type-safe, offline-first architecture and enforced code quality (pre-commit, ruff, mypy, pytest across 89 commits).
+- **RAG Techniques Implementation Hub** — public reference implementation of 19 RAG techniques and architectures.
 
 <br/>
 
-<img src="https://img.shields.io/github/last-commit/kartik00052/Kartik00052?label=updated&logo=github&style=flat-square&color=484f58&labelColor=0d1117" alt="Last Updated"/>
+## Certifications
+
+- Microsoft Certified: Azure Data Engineer Associate
+- AWS Academy Graduate — Cloud Architecting (May 2026)
+- AWS Academy Graduate — Cloud Foundations (Dec 2025)
+- Oracle Certified Foundations Associate — Agentic AI (Jun 2026)
+- Machine Learning Specialization — Coursera, DeepLearning.AI
+
+<br/>
+
+## Education
+
+**ABES Engineering College**, Ghaziabad, India
+B.Tech — Computer Science (AI & Machine Learning) · Sep 2024 – Sep 2028
+Coursework: DSA, OOP, DBMS, Machine Learning, Statistics, Big Data Analytics, System Design
+
+<br/>
+
+## Contact
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kartik00052)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik005204b283299)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartiksharma18852@gmail.com)
 
 </div>
